@@ -6,3 +6,4 @@ qa
 12234   qweasd
 this is hot_fix branch
 I want to merge in master
+I want to merge in hot_fix
